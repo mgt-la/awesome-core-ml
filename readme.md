@@ -11,13 +11,15 @@ Overview [here](https://developer.apple.com/machine-learning/), and documentatio
 
 
 ## Table of Contents
-
+- [Tools](#tools)
 - [First Steps](#first-steps)
 - [Model Conversion](#model-conversion)
 - [Core ML API](#core-ml-api)
 - [Neural Networks](#neural-networks)
 - [Demos](#demos)
 
+## Tools
+- [Core ML Tools](https://pypi.python.org/pypi/coremltools) - Python package for creating, examining, and testing models in the .mlmodel format
 
 ## First Steps
 
