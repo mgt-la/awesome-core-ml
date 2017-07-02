@@ -15,7 +15,7 @@ Overview [here](https://developer.apple.com/machine-learning/), and documentatio
 - [First Steps](#first-steps)
 - [Model Conversion](#model-conversion)
 - [Core ML API](#core-ml-api)
-- [Neural Networks](#neural-networks)
+- [Models](#models)
 - [Demos](#demos)
 
 ## Tools
@@ -36,9 +36,11 @@ Overview [here](https://developer.apple.com/machine-learning/), and documentatio
 - [Core ML API](https://developer.apple.com/documentation/coreml/core_ml_api) - Use the Core ML API directly to support custom workflows and advanced use cases
 
 
-## Neural Networks
+## Models
 
-- [MobileNet with CoreML](https://github.com/hollance/MobileNet-CoreML) - The MobileNet neural network using Apple's new CoreML framework
+- [MobileNet](https://github.com/hollance/MobileNet-CoreML) - The MobileNet neural network using Apple's new CoreML framework
+
+- [MNIST](https://github.com/ph1ps/MNIST-CoreML) - The MNIST neural network for handwritten digit classification
 
 ## Demos
 
